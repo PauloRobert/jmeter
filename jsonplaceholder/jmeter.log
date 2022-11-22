@@ -1,0 +1,31 @@
+2022-11-14 20:24:23,361 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-11-14 20:24:23,394 INFO o.a.j.JMeter: Loading user properties from: D:\Documentos\apache-jmeter-5.5\bin\user.properties
+2022-11-14 20:24:23,394 INFO o.a.j.JMeter: Loading system properties from: D:\Documentos\apache-jmeter-5.5\bin\system.properties
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: Version 5.5
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: java.version=11.0.15
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: os.name=Windows 11
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: os.arch=amd64
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: os.version=10.0
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: java.awt.headless=true
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-11-14 20:24:23,406 INFO o.a.j.JMeter: Available Processors =8
+2022-11-14 20:24:23,420 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-11-14 20:24:23,420 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-11-14 20:24:23,420 INFO o.a.j.JMeter: JMeterHome=D:\Documentos\apache-jmeter-5.5
+2022-11-14 20:24:23,420 INFO o.a.j.JMeter: user.dir  =D:\Documentos\Projetos\jmeter\jsonplaceholder
+2022-11-14 20:24:23,420 INFO o.a.j.JMeter: PWD       =D:\Documentos\Projetos\jmeter\jsonplaceholder
+2022-11-14 20:24:23,429 INFO o.a.j.JMeter: IP: 192.168.15.32 Name: Paulo FullName: Paulo
+2022-11-14 20:24:23,436 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'D:\Documentos\Projetos\jmeter\jsonplaceholder\report'
+2022-11-14 20:24:23,452 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2022-11-14 20:24:23,452 ERROR o.a.j.JMeter: An error occurred: 
+java.lang.IllegalArgumentException: Cannot read test results file : report_TestDataBase.jtl
+	at org.apache.jmeter.report.dashboard.ReportGenerator.<init>(ReportGenerator.java:133) ~[ApacheJMeter_core.jar:5.5]
+	at org.apache.jmeter.JMeter.start(JMeter.java:461) ~[ApacheJMeter_core.jar:5.5]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) ~[ApacheJMeter.jar:5.5]
