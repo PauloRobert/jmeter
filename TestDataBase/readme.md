@@ -14,5 +14,5 @@ Para utilizar esse teste é necessário incluir o driver do banco, que está na 
 
 Configure o seu banco de dados, adicionando m Backend Listener e inserindo nele as configurações do seu banco de dados.
 
-![Backend Listener](TestDataBase/img/Backend_Listener.png "Backend Listener")
-![Config Banco](TestDataBase/img/config_banco.png "Config Banco")
+![Backend Listener](/TestDataBase/img/Backend_Listener.png "Backend Listener")
+![Config Banco](/TestDataBase/img/config_banco.png "Config Banco")
