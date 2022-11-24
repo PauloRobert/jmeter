@@ -6,5 +6,4 @@ echo "%~dp0"
 if exist echo "%~dp0"\report rmdir "%~dp0"\report /q /s
 @echo ### GERANDO REPORT DA EXECUCAO ###
 jmeter -g report_TestDataBase.jtl -o report
-
 pause
