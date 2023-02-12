@@ -119,3 +119,121 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1668287735054,29,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-10,,true,,692,150,1,1,http://api.chucknorris.io/jokes/random?category=science,29,1,0,Paulo,0,0
 1668287735083,277,Get_CategoriaUnica-1,200,OK,Thread Group 1-10,text,true,,1011,150,1,1,https://api.chucknorris.io/jokes/random?category=science,277,1,0,Paulo,0,0
 1668287735361,1,Debug Sampler,200,OK,Thread Group 1-10,text,true,,325,0,1,1,null,0,1,0,Paulo,0,0
+1671721641961,1799,Get_Random,200,OK,Thread Group 1-1,text,true,,1019,133,2,2,https://api.chucknorris.io/jokes/random,1785,1,0,Paulo,0,856
+1671721643772,258,Get_Categorias,200,OK,Thread Group 1-1,text,true,,789,137,2,2,https://api.chucknorris.io/jokes/categories,258,1,0,Paulo,0,0
+1671721643347,1111,Get_Random,200,OK,Thread Group 1-2,text,true,,1060,133,2,2,https://api.chucknorris.io/jokes/random,1111,1,0,Paulo,0,107
+1671721644121,392,Get_CategoriaUnica,200,OK,Thread Group 1-1,text,true,,1901,296,2,2,https://api.chucknorris.io/jokes/random?category=movie,136,1,0,Paulo,0,18
+1671721644121,136,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-1,,true,,694,148,2,2,http://api.chucknorris.io/jokes/random?category=movie,136,1,0,Paulo,0,18
+1671721644263,250,Get_CategoriaUnica-1,200,OK,Thread Group 1-1,text,true,,1207,148,2,2,https://api.chucknorris.io/jokes/random?category=movie,249,1,0,Paulo,0,0
+1671721644515,2,Debug Sampler,200,OK,Thread Group 1-1,text,true,,322,0,2,2,null,0,1,0,Paulo,0,0
+1671721644460,388,Get_Categorias,200,OK,Thread Group 1-2,text,true,,789,137,3,3,https://api.chucknorris.io/jokes/categories,387,1,0,Paulo,0,0
+1671721644518,334,Get_Random,200,OK,Thread Group 1-1,text,true,,1093,133,3,3,https://api.chucknorris.io/jokes/random,334,1,0,Paulo,0,0
+1671721644854,506,Get_Categorias,200,OK,Thread Group 1-1,text,true,,789,137,3,3,https://api.chucknorris.io/jokes/categories,505,1,0,Paulo,0,0
+1671721644853,510,Get_CategoriaUnica,200,OK,Thread Group 1-2,text,true,,1740,304,3,3,https://api.chucknorris.io/jokes/random?category=political,153,1,0,Paulo,0,90
+1671721644853,153,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-2,,true,,700,152,3,3,http://api.chucknorris.io/jokes/random?category=political,153,1,0,Paulo,0,90
+1671721645007,356,Get_CategoriaUnica-1,200,OK,Thread Group 1-2,text,true,,1040,152,3,3,https://api.chucknorris.io/jokes/random?category=political,355,1,0,Paulo,0,0
+1671721645368,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,326,0,3,3,null,0,1,0,Paulo,0,0
+1671721645362,304,Get_CategoriaUnica,200,OK,Thread Group 1-1,text,true,,1711,294,3,3,https://api.chucknorris.io/jokes/random?category=food,42,1,0,Paulo,0,0
+1671721645362,42,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-1,,true,,697,147,3,3,http://api.chucknorris.io/jokes/random?category=food,42,1,0,Paulo,0,0
+1671721645404,262,Get_CategoriaUnica-1,200,OK,Thread Group 1-1,text,true,,1014,147,3,3,https://api.chucknorris.io/jokes/random?category=food,262,1,0,Paulo,0,0
+1671721645668,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,321,0,3,3,null,0,1,0,Paulo,0,0
+1671721644846,826,Get_Random,200,OK,Thread Group 1-3,text,true,,1007,133,3,3,https://api.chucknorris.io/jokes/random,825,1,0,Paulo,0,545
+1671721645673,301,Get_Categorias,200,OK,Thread Group 1-3,text,true,,789,137,2,2,https://api.chucknorris.io/jokes/categories,300,1,0,Paulo,0,0
+1671721645370,964,Get_Random,200,OK,Thread Group 1-2,text,true,,1025,133,3,3,https://api.chucknorris.io/jokes/random,963,1,0,Paulo,0,0
+1671721645977,399,Get_CategoriaUnica,200,OK,Thread Group 1-3,text,true,,1698,298,3,3,https://api.chucknorris.io/jokes/random?category=animal,122,1,0,Paulo,0,18
+1671721645977,122,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-3,,true,,699,149,3,3,http://api.chucknorris.io/jokes/random?category=animal,122,1,0,Paulo,0,18
+1671721646100,276,Get_CategoriaUnica-1,200,OK,Thread Group 1-3,text,true,,999,149,3,3,https://api.chucknorris.io/jokes/random?category=animal,275,1,0,Paulo,0,0
+1671721646377,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,323,0,3,3,null,0,1,0,Paulo,0,0
+1671721646336,265,Get_Categorias,200,OK,Thread Group 1-2,text,true,,787,137,3,3,https://api.chucknorris.io/jokes/categories,264,1,0,Paulo,0,0
+1671721646379,352,Get_Random,200,OK,Thread Group 1-3,text,true,,960,133,3,3,https://api.chucknorris.io/jokes/random,352,1,0,Paulo,0,0
+1671721646325,425,Get_Random,200,OK,Thread Group 1-4,text,true,,1066,133,3,3,https://api.chucknorris.io/jokes/random,425,1,0,Paulo,0,162
+1671721646602,393,Get_CategoriaUnica,200,OK,Thread Group 1-2,text,true,,1787,298,3,3,https://api.chucknorris.io/jokes/random?category=career,57,1,0,Paulo,0,0
+1671721646602,57,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-2,,true,,703,149,3,3,http://api.chucknorris.io/jokes/random?category=career,57,1,0,Paulo,0,0
+1671721646659,336,Get_CategoriaUnica-1,200,OK,Thread Group 1-2,text,true,,1084,149,3,3,https://api.chucknorris.io/jokes/random?category=career,336,1,0,Paulo,0,0
+1671721646996,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,323,0,3,3,null,0,1,0,Paulo,0,0
+1671721646731,305,Get_Categorias,200,OK,Thread Group 1-3,text,true,,787,137,2,2,https://api.chucknorris.io/jokes/categories,305,1,0,Paulo,0,0
+1671721646751,304,Get_Categorias,200,OK,Thread Group 1-4,text,true,,789,137,2,2,https://api.chucknorris.io/jokes/categories,304,1,0,Paulo,0,0
+1671721647038,370,Get_CategoriaUnica,200,OK,Thread Group 1-3,text,true,,1713,298,2,2,https://api.chucknorris.io/jokes/random?category=travel,49,1,0,Paulo,0,0
+1671721647038,49,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-3,,true,,695,149,2,2,http://api.chucknorris.io/jokes/random?category=travel,49,1,0,Paulo,0,0
+1671721647087,321,Get_CategoriaUnica-1,200,OK,Thread Group 1-3,text,true,,1018,149,2,2,https://api.chucknorris.io/jokes/random?category=travel,321,1,0,Paulo,0,0
+1671721647410,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,323,0,2,2,null,0,1,0,Paulo,0,0
+1671721647057,760,Get_CategoriaUnica,200,OK,Thread Group 1-4,text,true,,1670,302,1,1,https://api.chucknorris.io/jokes/random?category=religion,353,1,0,Paulo,0,28
+1671721647057,353,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-4,,true,,705,151,1,1,http://api.chucknorris.io/jokes/random?category=religion,353,1,0,Paulo,0,28
+1671721647411,406,Get_CategoriaUnica-1,200,OK,Thread Group 1-4,text,true,,965,151,1,1,https://api.chucknorris.io/jokes/random?category=religion,406,1,0,Paulo,0,0
+1671721647818,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,325,0,2,2,null,0,1,0,Paulo,0,0
+1671721647818,251,Get_Random,200,OK,Thread Group 1-4,text,true,,1012,133,2,2,https://api.chucknorris.io/jokes/random,251,1,0,Paulo,0,0
+1671721648070,361,Get_Categorias,200,OK,Thread Group 1-4,text,true,,791,137,2,2,https://api.chucknorris.io/jokes/categories,360,1,0,Paulo,0,0
+1671721648433,405,Get_CategoriaUnica,200,OK,Thread Group 1-4,text,true,,1791,298,2,2,https://api.chucknorris.io/jokes/random?category=career,34,1,0,Paulo,0,0
+1671721648433,34,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-4,,true,,697,149,2,2,http://api.chucknorris.io/jokes/random?category=career,34,1,0,Paulo,0,0
+1671721648467,371,Get_CategoriaUnica-1,200,OK,Thread Group 1-4,text,true,,1094,149,2,2,https://api.chucknorris.io/jokes/random?category=career,371,1,0,Paulo,0,0
+1671721648839,0,Debug Sampler,200,OK,Thread Group 1-4,text,true,,323,0,2,2,null,0,1,0,Paulo,0,0
+1671721647819,1020,Get_Random,200,OK,Thread Group 1-5,text,true,,1865,133,2,2,https://api.chucknorris.io/jokes/random,1020,1,0,Paulo,0,95
+1671721648840,307,Get_Categorias,200,OK,Thread Group 1-5,text,true,,789,137,1,1,https://api.chucknorris.io/jokes/categories,306,1,0,Paulo,0,0
+1671721649323,129,Get_Random,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset by peer: socket write error,Thread Group 1-6,text,false,O código não veio 200!,3834,0,2,2,https://api.chucknorris.io/jokes/random,0,1,1,Paulo,0,129
+1671721649150,318,Get_CategoriaUnica,200,OK,Thread Group 1-5,text,true,,1670,302,2,2,https://api.chucknorris.io/jokes/random?category=religion,61,1,0,Paulo,0,17
+1671721649150,61,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-5,,true,,697,151,2,2,http://api.chucknorris.io/jokes/random?category=religion,61,1,0,Paulo,0,17
+1671721649212,256,Get_CategoriaUnica-1,200,OK,Thread Group 1-5,text,true,,973,151,2,2,https://api.chucknorris.io/jokes/random?category=religion,256,1,0,Paulo,0,0
+1671721649469,0,Debug Sampler,200,OK,Thread Group 1-5,text,true,,324,0,2,2,null,0,1,0,Paulo,0,0
+1671721649469,6,Get_Random,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-5,text,false,O código não veio 200!,2968,0,2,2,https://api.chucknorris.io/jokes/random,0,1,1,Paulo,0,0
+1671721649476,905,Get_Categorias,200,OK,Thread Group 1-5,text,true,,797,137,2,2,https://api.chucknorris.io/jokes/categories,904,1,0,Paulo,0,53
+1671721649454,927,Get_Categorias,200,OK,Thread Group 1-6,text,true,,791,137,2,2,https://api.chucknorris.io/jokes/categories,926,1,0,Paulo,0,52
+1671721650382,38,Get_CategoriaUnica,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-5,text,false,,2496,0,2,2,http://api.chucknorris.io/jokes/random?category=political,0,1,1,Paulo,0,0
+1671721650421,0,Debug Sampler,200,OK,Thread Group 1-5,text,true,,326,0,2,2,null,0,1,0,Paulo,0,0
+1671721650384,402,Get_CategoriaUnica,200,OK,Thread Group 1-6,text,true,,1726,298,1,1,https://api.chucknorris.io/jokes/random?category=travel,65,1,0,Paulo,0,35
+1671721650384,65,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-6,,true,,701,149,1,1,http://api.chucknorris.io/jokes/random?category=travel,65,1,0,Paulo,0,35
+1671721650449,337,Get_CategoriaUnica-1,200,OK,Thread Group 1-6,text,true,,1025,149,1,1,https://api.chucknorris.io/jokes/random?category=travel,336,1,0,Paulo,0,0
+1671721650787,0,Debug Sampler,200,OK,Thread Group 1-6,text,true,,323,0,1,1,null,0,1,0,Paulo,0,0
+1671721650788,226,Get_Random,200,OK,Thread Group 1-6,text,true,,979,133,2,2,https://api.chucknorris.io/jokes/random,226,1,0,Paulo,0,0
+1671721651015,226,Get_Categorias,200,OK,Thread Group 1-6,text,true,,793,137,2,2,https://api.chucknorris.io/jokes/categories,226,1,0,Paulo,0,0
+1671721651243,464,Get_CategoriaUnica,200,OK,Thread Group 1-6,text,true,,1689,292,2,2,https://api.chucknorris.io/jokes/random?category=dev,73,1,0,Paulo,0,0
+1671721651243,73,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-6,,true,,692,146,2,2,http://api.chucknorris.io/jokes/random?category=dev,73,1,0,Paulo,0,0
+1671721651317,390,Get_CategoriaUnica-1,200,OK,Thread Group 1-6,text,true,,997,146,2,2,https://api.chucknorris.io/jokes/random?category=dev,390,1,0,Paulo,0,0
+1671721651709,0,Debug Sampler,200,OK,Thread Group 1-6,text,true,,320,0,2,2,null,0,1,0,Paulo,0,0
+1671721650826,930,Get_Random,200,OK,Thread Group 1-7,text,true,,1030,133,1,1,https://api.chucknorris.io/jokes/random,930,1,0,Paulo,0,75
+1671721651757,260,Get_Categorias,200,OK,Thread Group 1-7,text,true,,793,137,1,1,https://api.chucknorris.io/jokes/categories,259,1,0,Paulo,0,0
+1671721652021,364,Get_CategoriaUnica,200,OK,Thread Group 1-7,text,true,,1769,300,2,2,https://api.chucknorris.io/jokes/random?category=fashion,119,1,0,Paulo,0,82
+1671721652021,119,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-7,,true,,702,150,2,2,http://api.chucknorris.io/jokes/random?category=fashion,119,1,0,Paulo,0,82
+1671721652140,245,Get_CategoriaUnica-1,200,OK,Thread Group 1-7,text,true,,1067,150,2,2,https://api.chucknorris.io/jokes/random?category=fashion,244,1,0,Paulo,0,0
+1671721652386,0,Debug Sampler,200,OK,Thread Group 1-7,text,true,,324,0,2,2,null,0,1,0,Paulo,0,0
+1671721652387,344,Get_Random,200,OK,Thread Group 1-7,text,true,,979,133,2,2,https://api.chucknorris.io/jokes/random,344,1,0,Paulo,0,0
+1671721652732,307,Get_Categorias,200,OK,Thread Group 1-7,text,true,,795,137,2,2,https://api.chucknorris.io/jokes/categories,307,1,0,Paulo,0,0
+1671721652323,979,Get_Random,200,OK,Thread Group 1-8,text,true,,1037,133,2,2,https://api.chucknorris.io/jokes/random,979,1,0,Paulo,0,79
+1671721653041,297,Get_CategoriaUnica,200,OK,Thread Group 1-7,text,true,,1770,298,2,2,https://api.chucknorris.io/jokes/random?category=career,62,1,0,Paulo,0,0
+1671721653041,62,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-7,,true,,697,149,2,2,http://api.chucknorris.io/jokes/random?category=career,62,1,0,Paulo,0,0
+1671721653104,234,Get_CategoriaUnica-1,200,OK,Thread Group 1-7,text,true,,1073,149,2,2,https://api.chucknorris.io/jokes/random?category=career,233,1,0,Paulo,0,0
+1671721653339,0,Debug Sampler,200,OK,Thread Group 1-7,text,true,,323,0,2,2,null,0,1,0,Paulo,0,0
+1671721653303,350,Get_Categorias,200,OK,Thread Group 1-8,text,true,,801,137,1,1,https://api.chucknorris.io/jokes/categories,349,1,0,Paulo,0,0
+1671721653657,291,Get_CategoriaUnica,200,OK,Thread Group 1-8,text,true,,1705,296,2,2,https://api.chucknorris.io/jokes/random?category=music,46,1,0,Paulo,0,10
+1671721653657,46,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-8,,true,,700,148,2,2,http://api.chucknorris.io/jokes/random?category=music,46,1,0,Paulo,0,10
+1671721653704,244,Get_CategoriaUnica-1,200,OK,Thread Group 1-8,text,true,,1005,148,2,2,https://api.chucknorris.io/jokes/random?category=music,243,1,0,Paulo,0,0
+1671721653948,1,Debug Sampler,200,OK,Thread Group 1-8,text,true,,322,0,2,2,null,0,1,0,Paulo,0,0
+1671721653949,260,Get_Random,200,OK,Thread Group 1-8,text,true,,1098,133,2,2,https://api.chucknorris.io/jokes/random,260,1,0,Paulo,0,0
+1671721654210,261,Get_Categorias,200,OK,Thread Group 1-8,text,true,,793,137,2,2,https://api.chucknorris.io/jokes/categories,261,1,0,Paulo,0,0
+1671721654472,337,Get_CategoriaUnica,200,OK,Thread Group 1-8,text,true,,1769,300,2,2,https://api.chucknorris.io/jokes/random?category=fashion,18,1,0,Paulo,0,0
+1671721654472,18,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-8,,true,,704,150,2,2,http://api.chucknorris.io/jokes/random?category=fashion,18,1,0,Paulo,0,0
+1671721654490,319,Get_CategoriaUnica-1,200,OK,Thread Group 1-8,text,true,,1065,150,2,2,https://api.chucknorris.io/jokes/random?category=fashion,319,1,0,Paulo,0,0
+1671721653825,986,Get_Random,200,OK,Thread Group 1-9,text,true,,1288,133,2,2,https://api.chucknorris.io/jokes/random,986,1,0,Paulo,0,84
+1671721654813,1,Debug Sampler,200,OK,Thread Group 1-8,text,true,,324,0,2,2,null,0,1,0,Paulo,0,0
+1671721654813,274,Get_Categorias,200,OK,Thread Group 1-9,text,true,,797,137,1,1,https://api.chucknorris.io/jokes/categories,273,1,0,Paulo,0,0
+1671721655090,315,Get_CategoriaUnica,200,OK,Thread Group 1-9,text,true,,1708,296,2,2,https://api.chucknorris.io/jokes/random?category=music,75,1,0,Paulo,0,10
+1671721655090,75,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-9,,true,,698,148,2,2,http://api.chucknorris.io/jokes/random?category=music,75,1,0,Paulo,0,10
+1671721655166,239,Get_CategoriaUnica-1,200,OK,Thread Group 1-9,text,true,,1010,148,2,2,https://api.chucknorris.io/jokes/random?category=music,238,1,0,Paulo,0,0
+1671721655406,1,Debug Sampler,200,OK,Thread Group 1-9,text,true,,322,0,2,2,null,0,1,0,Paulo,0,0
+1671721655408,292,Get_Random,200,OK,Thread Group 1-9,text,true,,1132,133,2,2,https://api.chucknorris.io/jokes/random,292,1,0,Paulo,0,0
+1671721655702,307,Get_Categorias,200,OK,Thread Group 1-9,text,true,,793,137,2,2,https://api.chucknorris.io/jokes/categories,306,1,0,Paulo,0,0
+1671721656011,305,Get_CategoriaUnica,200,OK,Thread Group 1-9,text,true,,1709,302,2,2,https://api.chucknorris.io/jokes/random?category=explicit,26,1,0,Paulo,0,0
+1671721656011,26,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-9,,true,,695,151,2,2,http://api.chucknorris.io/jokes/random?category=explicit,26,1,0,Paulo,0,0
+1671721656037,279,Get_CategoriaUnica-1,200,OK,Thread Group 1-9,text,true,,1014,151,2,2,https://api.chucknorris.io/jokes/random?category=explicit,278,1,0,Paulo,0,0
+1671721656317,1,Debug Sampler,200,OK,Thread Group 1-9,text,true,,325,0,2,2,null,0,1,0,Paulo,0,0
+1671721655321,997,Get_Random,200,OK,Thread Group 1-10,text,true,,1006,133,2,2,https://api.chucknorris.io/jokes/random,997,1,0,Paulo,0,109
+1671721656320,405,Get_Categorias,200,OK,Thread Group 1-10,text,true,,793,137,1,1,https://api.chucknorris.io/jokes/categories,404,1,0,Paulo,0,0
+1671721656729,300,Get_CategoriaUnica,200,OK,Thread Group 1-10,text,true,,1735,298,1,1,https://api.chucknorris.io/jokes/random?category=animal,77,1,0,Paulo,0,44
+1671721656729,77,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-10,,true,,701,149,1,1,http://api.chucknorris.io/jokes/random?category=animal,77,1,0,Paulo,0,44
+1671721656807,222,Get_CategoriaUnica-1,200,OK,Thread Group 1-10,text,true,,1034,149,1,1,https://api.chucknorris.io/jokes/random?category=animal,222,1,0,Paulo,0,0
+1671721657031,0,Debug Sampler,200,OK,Thread Group 1-10,text,true,,323,0,1,1,null,0,1,0,Paulo,0,0
+1671721657032,309,Get_Random,200,OK,Thread Group 1-10,text,true,,1000,133,1,1,https://api.chucknorris.io/jokes/random,309,1,0,Paulo,0,0
+1671721657343,304,Get_Categorias,200,OK,Thread Group 1-10,text,true,,791,137,1,1,https://api.chucknorris.io/jokes/categories,303,1,0,Paulo,0,0
+1671721657649,407,Get_CategoriaUnica,200,OK,Thread Group 1-10,text,true,,1656,292,1,1,https://api.chucknorris.io/jokes/random?category=dev,25,1,0,Paulo,0,0
+1671721657649,25,Get_CategoriaUnica-0,301,Moved Permanently,Thread Group 1-10,,true,,694,146,1,1,http://api.chucknorris.io/jokes/random?category=dev,25,1,0,Paulo,0,0
+1671721657675,381,Get_CategoriaUnica-1,200,OK,Thread Group 1-10,text,true,,962,146,1,1,https://api.chucknorris.io/jokes/random?category=dev,381,1,0,Paulo,0,0
+1671721658057,0,Debug Sampler,200,OK,Thread Group 1-10,text,true,,320,0,1,1,null,0,1,0,Paulo,0,0
