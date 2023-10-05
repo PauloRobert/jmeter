@@ -1,5 +1,9 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1677097422743,3651,SelectBD,200,OK,Thread Group 1-1,text,false,Test failed: message expected something using /has exceeded the 'max_user_connections'/	Test failed: message expected something using /Error preloading the connection pool/	,193,0,2,2,null,3651,0,3447
-1677097426395,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,704,0,2,2,null,0,0,0
-1677097423246,3762,SelectBD,200,OK,Thread Group 1-2,text,false,Test failed: message expected something using /has exceeded the 'max_user_connections'/	Test failed: message expected something using /Error preloading the connection pool/	,193,0,1,1,null,3762,0,3569
-1677097427010,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,704,0,1,1,null,0,0,0
+1677103608296,3321,SelectBD,200,OK,Thread Group 1-1,text,true,,239,0,2,2,null,3321,0,3116
+1677103608794,2824,SelectBD,200,OK,Thread Group 1-2,text,true,,239,0,2,2,null,2824,0,2651
+1677103611617,157,InsertBD,200,OK,Thread Group 1-1,text,false,"Chave Primaria Violada, esse ClienteID já existe!",9,0,2,2,null,157,0,0
+1677103611619,158,InsertBD,200,OK,Thread Group 1-2,text,false,"Chave Primaria Violada, esse ClienteID já existe!",9,0,2,2,null,158,0,0
+1677103611777,319,DeleteBD,200,OK,Thread Group 1-2,text,true,,9,0,2,2,null,319,0,0
+1677103611774,322,DeleteBD,200,OK,Thread Group 1-1,text,true,,9,0,2,2,null,322,0,0
+1677103612097,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,805,0,2,2,null,0,0,0
+1677103612097,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,805,0,2,2,null,0,0,0
